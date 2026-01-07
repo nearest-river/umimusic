@@ -1,0 +1,16 @@
+
+
+[workspace]
+resolver = "3"
+members = [
+  "app/ui",
+  "app/server",
+]
+
+
+
+
+
+
+
+
